@@ -2,4 +2,4 @@
 
 ## Description
 
-Coffee Masters - Building a coffee ordering application using plain Vanilla javascript
+Coffee Masters - Building a coffee ordering application using plain Vanilla JavaScript
